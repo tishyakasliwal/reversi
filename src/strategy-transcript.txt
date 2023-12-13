@@ -1,0 +1,10 @@
+This is a transcript from our mock model of the tiles that
+a player should choose once the given moves are made in order
+to capture the most tiles.
+
+diagonal = 4, row = 2
+diagonal = 4, row = 7
+diagonal = 3, row = 4
+diagonal = 4, row = 3
+diagonal = 6, row = 7
+diagonal = 2, row = 6
